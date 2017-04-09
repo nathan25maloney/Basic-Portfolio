@@ -1,0 +1,88 @@
+
+a {
+	position: relative;
+	top: -20px;
+	float: right;
+	padding: 50px 10px 28px 10px;
+	color: #9e969c;
+
+}
+
+a.button {
+	padding: 20px 0px 0px 0px;
+}
+
+h2 {
+	float: left;
+	padding: 20px;
+	background-color: #4aaaa5;
+	color: white;
+	width: 264px;
+}
+
+h3 {
+	font-size: 30px;
+	color: #4aaaa5;
+	background-color: white;
+}
+
+h3.solid {
+	border-style: none none solid none;
+	border-width: 3px;
+	border-color: #dddddd;
+}
+
+h3.solid2 {
+	font-size: 20px;
+	border-style: none none solid none;
+	border-width: 3px;
+	border-color: #dddddd;
+
+}
+
+.jumbotron {
+	background-color: white;
+    padding: 5px 100px 83px 110px;
+    
+    border-color: #cccccc;
+}
+
+body {
+	background-image: url('grey_wash_wall.png') repeat;
+	/*background-color:  #cccccc;*/
+	border: solid none solid none;
+	border-width: 4px;
+	border-color: darkgrey;
+}
+
+.container {
+	background-color: white;
+    color: black;
+    width: 40%;
+    height: 50%;
+    float: left;
+  /*  border: solid;*/
+
+    padding: 0px 20px 60px 40px;
+    margin: 0px 10px 20px 110px;
+
+}
+
+.container2 {
+	background-color: white;
+    color: black;
+    width: 19%;
+    height: 20%;
+    float: right;
+    /* border: solid; */
+    padding: 8px 27px 0px 19px;
+    margin: 0px 170px 20px 10px;
+
+}
+
+
+
+img {
+	float: left;
+	padding: 0px 8px 8px 0px;
+}
